@@ -1,11 +1,11 @@
 # MBA_Disciplina1
-MBA USP 2021 - Disciplina 1 - Programação para Ciência de Dados__
-Aula 1 - Python I<br />
+MBA USP 2021 - Disciplina 1 - Programação para Ciência de Dados <br>
+Aula 1 - Python I <br>
 Aula 2 - Python II <br>
-Aula 3 - Python III;
-Aula 4 - Numpy I;
-Aula 5 - Numpy II e Matplotlib;
-Aula 6 - Pandas I;
-Aula 7 - Pandas II;
-Aula 8 - Pandas III;
+Aula 3 - Python III <br>
+Aula 4 - Numpy I <br>
+Aula 5 - Numpy II e Matplotlib <br>
+Aula 6 - Pandas I <br>
+Aula 7 - Pandas II <br>
+Aula 8 - Pandas III <br>
 Aula 9 - Avaliação Final
