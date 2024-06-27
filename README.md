@@ -1,6 +1,5 @@
-# MBA_Disciplina1
+# MBA_Disciplina1: Programação para Ciência de Dados
 MBA Ciência de Dados USP 2021 <br>
-Disciplina 1 - Programação para Ciência de Dados <br>
 Aula 1 - Python I <br>
 Aula 2 - Python II <br>
 Aula 3 - Python III <br>
